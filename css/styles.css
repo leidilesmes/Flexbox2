@@ -1,0 +1,16 @@
+.modeloCaja {
+    height: 280px;
+    width: 280px;
+    margin: 100px;
+    background-color: #ffd650;
+    padding: 10px;
+    border: solid 8px black;
+}
+.modeloCajaa {
+    height: 200px;
+    width: 200px;
+    margin: 100px;
+    background-color: #fffd80;
+    padding: 10px;
+    border: solid 8px black;
+}
